@@ -1,0 +1,19 @@
+{
+  "name": "function-serialization-tools",
+  "version": "1.0.0",
+  "description": "serialization and deserialization functions. Function.toString and back again.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llambda/function-serialization-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llambda/function-serialization-tools/issues"
+  },
+  "homepage": "https://github.com/llambda/function-serialization-tools"
+}
