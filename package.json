@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/llambda/function-serialization-tools/issues"
   },
-  "homepage": "https://github.com/llambda/function-serialization-tools"
+  "homepage": "https://github.com/llambda/function-serialization-tools",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
 }
